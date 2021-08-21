@@ -1,1 +1,11 @@
-# qlickViewHelloWorld
+# QlickView "Hello World"
+
+Для первичного знакомства с QlickView я импортировал свою БД из другого проекта и сделал небольшой отчет на ее основе
+
+Лист 1
+
+![](images/1.png)
+
+Лист 2
+
+![](images/2.png)
